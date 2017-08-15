@@ -1,6 +1,0 @@
-web:
-  build: ./build/nginx
-  ports:
-    - "80:80"
-  volumes:
-    - ./:/var/www
